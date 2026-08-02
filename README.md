@@ -1,2 +1,2 @@
 # us-freight-transportation-analytics
-Analytics on freight transportation in the United States
+Analyzing freight movement, commodity flows, transportation modes, and state-level logistics performance using official U.S. Bureau of Transportation Statistics (FAF6) data.
